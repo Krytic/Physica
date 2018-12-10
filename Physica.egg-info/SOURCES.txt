@@ -1,8 +1,0 @@
-README.md
-setup.py
-Physica.egg-info/PKG-INFO
-Physica.egg-info/SOURCES.txt
-Physica.egg-info/dependency_links.txt
-Physica.egg-info/top_level.txt
-physica/Dataset.py
-physica/__init__.py
