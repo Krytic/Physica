@@ -1,3 +1,9 @@
+# Release files
+build/*
+dist/*
+release.py
+Physica.egg-info
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
