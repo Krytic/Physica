@@ -2,7 +2,7 @@
 build/*
 dist/*
 release.py
-Physica.egg-info
+Physica.egg-info/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
